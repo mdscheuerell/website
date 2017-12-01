@@ -1,5 +1,5 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "MARK SCHEUERELL"
+title = ""
 copyright = "&copy; 2017 Mark Scheuerell"
 theme = "hugo-academic"
 enableEmoji = true
