@@ -84,7 +84,7 @@ defaultContentLanguageInSubdir = false
   map_api_key = "AIzaSyCOM_4Igg4AmZuG4Hv7KUqzSDvOiA8iu9A"
   latitude = "47.644851"
   longitude = "-122.307007"
-  zoom = 14
+  zoom = 13
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
