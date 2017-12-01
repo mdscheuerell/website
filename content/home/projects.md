@@ -14,7 +14,7 @@ weight = 50
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
 
 # Filter toolbar.
 
@@ -29,12 +29,16 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Bayesian"
+  tag = ".Bayesian"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Stan"
+  tag = ".Stan"
+
+[[filter]]
+  name = "JAGS"
+  tag = ".JAGS"
 
 +++
 

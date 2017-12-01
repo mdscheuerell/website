@@ -15,14 +15,16 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+## Applied Time Series Analysis in Fisheries & Environmental Sciences
 
-I am a teaching instructor for the following courses at University X:
+with [Eli Holmes](https://faculty.washington.edu/eeholmes/) & [Eric Ward](https://faculty.washington.edu/warde/)
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+During winters of odd years we teach [_Applied Time Series Analysis in Fisheries and Environmental Sciences_](https://catalyst.uw.edu/workspace/fish203/35553/243766) (FISH 507), a 10-week long course in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/). 
+
+***
+
+## Applied Time Series for Ecology
+
+with [Eli Holmes](https://faculty.washington.edu/eeholmes/)
+
+In March of 2014 we taught [_Applied Time Series for Ecology_](https://timeseriescourseemb.wordpress.com/), a weeklong short course in the [Department of Ecology, Environment and Plant Sciences](http://su.se/deep/english/) at [Stockholm University](http://www.su.se/english/).
