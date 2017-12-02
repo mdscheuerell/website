@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Integrated population models"
 
 # Project summary to display on homepage.
-summary = "Integrated population models for Pacific salmon."
+summary = "Development and application of integrated population models for Pacific salmon."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "bubbles.jpg"
