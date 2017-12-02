@@ -49,9 +49,9 @@ defaultContentLanguageInSubdir = false
   { name = "UW School of Aquatic and Fishery Sciences", url = "https://fish.uw.edu/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "me_head.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mark.scheuerell@noaa.gov"
-  address = "NOAA Northwest Fisheries Science Center, 2725 Montlake Blvd E, Seattle, WA, USA"
+  address = "NOAA Northwest Fisheries Science Center <br> 2725 Montlake Blvd E <br> Seattle, WA 98112, USA"
   phone = "206 302 2437"
   skype = "mdscheuerell"
 
@@ -231,16 +231,6 @@ defaultContentLanguageInSubdir = false
     icon = "mendeley"
     icon_pack = "ai"
     link = "https://www.mendeley.com/profiles/mark-scheuerell/"
-
-  [[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/Mark_Scheuerell"
-
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/markscheuerell/"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
