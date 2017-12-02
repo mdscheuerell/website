@@ -1,4 +1,5 @@
-baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://faculty.washington.edu/scheuerl/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+#relativeurls = true
 title = ""
 copyright = "&copy; 2017 Mark Scheuerell"
 theme = "hugo-academic"
@@ -48,7 +49,7 @@ defaultContentLanguageInSubdir = false
   { name = "UW School of Aquatic and Fishery Sciences", url = "https://fish.uw.edu/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "me_head.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "me_head.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mark.scheuerell@noaa.gov"
   address = "NOAA Northwest Fisheries Science Center, 2725 Montlake Blvd E, Seattle, WA, USA"
   phone = "206 302 2437"
