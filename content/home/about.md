@@ -33,10 +33,10 @@ weight = 5
  
 +++
 
-# Biography
+# About me
 
-Mark is an applied ecologist at NOAA‘s Northwest Fisheries Science Center and an Affiliate Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington.
+I am an applied ecologist at NOAA‘s Northwest Fisheries Science Center and an Affiliate Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington.
 
-He works on a variety of problems related to the conservation and management of aquatic resources, particularly along the west coast of North America. Much of Mark's research is focused on the development and application of statistical methods for analyzing temporal and spatial data.
+I work on a variety of problems related to the conservation and management of aquatic resources, particularly along the west coast of North America. Much of my research is focused on the development and application of statistical methods for analyzing temporal and spatial data.
 
-Mark advises post-docs and serves on graduate student committees in both formal and informal roles. Feel free to contact him if you would like to discuss any aspect of your research.
+I advise post-docs and serve on graduate student committees in both formal and informal roles. Feel free to contact me if you would like to discuss any aspect of your research.
