@@ -33,7 +33,7 @@ weight = 5
  
 +++
 
-# About me
+# Biosketch
 
 I am an applied ecologist at NOAA‘s Northwest Fisheries Science Center and an Affiliate Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington.
 
