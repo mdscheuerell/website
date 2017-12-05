@@ -1,8 +1,10 @@
 +++
-# Hero widget as CV.
-widget = "hero"
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
 active = false
-date = 2017-10-15
+date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "CV"
@@ -15,11 +17,11 @@ weight = 65
 
 ### Education
 
-Ph.D., Zoology, University of Washington, 2002 (advisor: DE Schindler)  
+PhD, Zoology, University of Washington, 2002 (advisor: DE Schindler)  
 
-M.S., Fishery and Aquatic Science, Cornell University, 1995 (advisors: LG Rudstam & EL Mills)  
+MS, Fishery and Aquatic Science, Cornell University, 1995 (advisors: LG Rudstam & EL Mills)  
 
-B.S., Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter & JF Kitchell)  
+BS, Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter & JF Kitchell)  
 
 ### Professional experience
 
@@ -66,22 +68,8 @@ Ingrith Deyrup-Olsen Award for Distinguished Teaching Assistant, Department of Z
 Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, University of Washington, Seattle, Washington (1999)
 <p>
 
-### Publications
-
-Click on any of the following sources for an up-to-date list of my publications, including links.
-
----------------------------------------  ---------------------------------------
-   [![](images/orcid_logo.png)][orc]       [![](images/impactstory.png)][imp] 
- [![](images/google_scholar.png)][goo]      [![](images/mendeley.png)][men]   
----------------------------------------  ---------------------------------------
-
-[orc]: https://orcid.org/0000-0002-8284-1254
-[goo]: https://scholar.google.com/citations?user=uwu1QikAAAAJ&hl=en&oi=ao
-[imp]: https://impactstory.org/u/0000-0002-8284-1254
-[men]: https://www.mendeley.com/profiles/mark-scheuerell
-
 ### More information
 
-You can find a more extensive version of my CV [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf).
+You can find my complete CV [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf).
 
 
