@@ -230,7 +230,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "mendeley"
     icon_pack = "ai"
-    link = "https://www.mendeley.com/profiles/mark-scheuerell/"
+    link = "//www.mendeley.com/profiles/mark-scheuerell/"
+
+  [[params.social]]
+    icon = "impactstory"
+    icon_pack = "ai"
+    link = "//impactstory.org/u/0000-0002-8284-1254"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
