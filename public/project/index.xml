@@ -1,40 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on MARK SCHEUERELL</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on MARK SCHEUERELL</description>
+    <title>Projects on </title>
+    <link>/scheuerl/project/</link>
+    <description>Recent content in Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mark Scheuerell</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    <atom:link href="/scheuerl/project/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
+      <title>Integrated population models</title>
+      <link>/scheuerl/project/ipm/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <guid>/scheuerl/project/ipm/</guid>
+      <description>
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;h2 id=&#34;skagit-river-steelhead&#34;&gt;Skagit River steelhead&lt;/h2&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;I developed a Bayesian IPM for a population of steelhead from the Skagit River to help biologists from the &lt;a href=&#34;http://skagitcoop.org/&#34; target=&#34;_blank&#34;&gt;Skagit River System Cooperative&lt;/a&gt; and the &lt;a href=&#34;http://wdfw.wa.gov/&#34; target=&#34;_blank&#34;&gt;Washington Department of Fish &amp;amp; Wildlife&lt;/a&gt; examine the effects of hatchery releases and instream flows on steelhead production. You can find a detailed description of the methods &lt;a href=&#34;https://mdscheuerell.github.io/ASSESSOR/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;snake-river-chinook&#34;&gt;Snake River Chinook&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:eric.buhle@noaa.gov&#34; target=&#34;_blank&#34;&gt;Eric Buhle&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/site/thorsonresearch/&#34; target=&#34;_blank&#34;&gt;Jim Thorson&lt;/a&gt;, and I have developed an &lt;a href=&#34;https://github.com/ebuhle/salmonIPM&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; to fit a Bayesian IPM to multiple populations of Pacific salmon. Our model also includes broodstock removals for hatchery operations and the effects of hatchery-origin fish spawning in the wild. We are using the model to conduct population viability assessments and evaluate possible effects of various harvest control rules.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <title>Multivariate Autoregressive State-Space (MARSS) models</title>
+      <link>/scheuerl/project/marss/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/example-external-project/</guid>
-      <description></description>
+      <guid>/scheuerl/project/marss/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://faculty.washington.edu/eeholmes/&#34; target=&#34;_blank&#34;&gt;Eli Holmes&lt;/a&gt;, &lt;a href=&#34;https://faculty.washington.edu/warde/&#34; target=&#34;_blank&#34;&gt;Eric Ward&lt;/a&gt;, and I have developed an &lt;a href=&#34;https://cran.r-project.org/web/packages/MARSS/index.html&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; with a detailed &lt;a href=&#34;https://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf&#34; target=&#34;_blank&#34;&gt;user’s guide&lt;/a&gt; for analyzing a variety of multivariate time series problems under a maximum likelihood framework. Examples include movement tracking, dynamic linear models (DLM), dynamic factor analysis (DFA), and estimating community interactions &amp;amp; stability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial Dynamic Factor Analysis (SDFA)</title>
+      <link>/scheuerl/project/sdfa/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/scheuerl/project/sdfa/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;I have been working with &lt;a href=&#34;https://sites.google.com/site/thorsonresearch/&#34; target=&#34;_blank&#34;&gt;Jim Thorson&lt;/a&gt; and several others on a variety of applications of joint dynamic species density models (JDSDM) to marine and terrestrial fauna. You can learn more about the models, applications, and &lt;strong&gt;R&lt;/strong&gt; packages at the &lt;a href=&#34;https://james-thorson.github.io/&#34; target=&#34;_blank&#34;&gt;FishStats&lt;/a&gt; website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time-Varying Vector Autogressive State-Space (TVVARSS) models</title>
+      <link>/scheuerl/project/tvvarss/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/scheuerl/project/tvvarss/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://faculty.washington.edu/warde/&#34; target=&#34;_blank&#34;&gt;Eric Ward&lt;/a&gt;, &lt;a href=&#34;http://cahnrs.wsu.edu/soe/people/facultynstaff/stephenkatz/&#34; target=&#34;_blank&#34;&gt;Steve Katz&lt;/a&gt;, and I have developed an &lt;a href=&#34;https://github.com/nwfsc-timeseries/tvvarss&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; to fit a Bayesian version of the model developed by &lt;a href=&#34;https://doi.org/10.1890/ES11-00347.1&#34; target=&#34;_blank&#34;&gt;Ives &amp;amp; Dakos (2012)&lt;/a&gt;. We expanded on their model to include multiple different forms of observation models. We are using it to examine changing species interactions and community stability in kelp forest ecosystems.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
