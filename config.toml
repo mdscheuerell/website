@@ -1,6 +1,6 @@
 baseurl = "https://faculty.washington.edu/scheuerl/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #relativeurls = true
-title = ""
+title = "MARK SCHEUERELL"
 copyright = "&copy; 2017 Mark Scheuerell"
 theme = "hugo-academic"
 enableEmoji = true
@@ -262,7 +262,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "./CV/"
+  url = "./cv/"
   weight = 4
 
 [[menu.main]]

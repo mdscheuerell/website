@@ -7,8 +7,8 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "CV"
-subtitle = ""
+title = "Curriculum vitae"
+subtitle = "Complete version [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf)."
 
 # Order that this section will appear in.
 weight = 65
@@ -67,9 +67,5 @@ Ingrith Deyrup-Olsen Award for Distinguished Teaching Assistant, Department of Z
 <p class="hang">
 Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, University of Washington, Seattle, Washington (1999)
 <p>
-
-## More information
-
-You can find my complete CV [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf).
 
 
