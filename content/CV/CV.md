@@ -23,6 +23,8 @@ MS, Fishery and Aquatic Science, Cornell University, 1995 (advisors: LG Rudstam 
 
 BS, Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter & JF Kitchell)  
 
+***
+
 ## Professional experience
 
 __2003 - present__  
@@ -37,6 +39,8 @@ Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, Universit
 __2002 - 2003__  
 Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of Washington
 
+***
+
 ## Fellowships
 
 National Research Council Postdoctoral Research Associateship (2003)
@@ -46,6 +50,8 @@ Ford Foundation Fellowship in Environmental Science (2002)
 NSF Graduate Research Training Grant in Mathematical Biology (1999)  
 
 Electric Power Research Institute Fellowship in Fish Population Biology (1994)
+
+***
 
 ## Awards & Honors
 
@@ -67,5 +73,4 @@ Ingrith Deyrup-Olsen Award for Distinguished Teaching Assistant, Department of Z
 <p class="hang">
 Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, University of Washington, Seattle, Washington (1999)
 <p>
-
 
