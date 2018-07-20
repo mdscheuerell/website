@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = false
+active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -15,7 +15,7 @@ weight = 65
 
 +++
 
-### Education
+## Education
 
 PhD, Zoology, University of Washington, 2002 (advisor: DE Schindler)  
 
@@ -23,7 +23,7 @@ MS, Fishery and Aquatic Science, Cornell University, 1995 (advisors: LG Rudstam 
 
 BS, Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter & JF Kitchell)  
 
-### Professional experience
+## Professional experience
 
 __2003 - present__  
 Research Fisheries Biologist, NOAA Northwest Fisheries Science Center
@@ -37,7 +37,7 @@ Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, Universit
 __2002 - 2003__  
 Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of Washington
 
-### Fellowships
+## Fellowships
 
 National Research Council Postdoctoral Research Associateship (2003)
 
@@ -47,7 +47,7 @@ NSF Graduate Research Training Grant in Mathematical Biology (1999)
 
 Electric Power Research Institute Fellowship in Fish Population Biology (1994)
 
-### Awards & Honors
+## Awards & Honors
 
 <p class="hang">
 Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
@@ -68,7 +68,7 @@ Ingrith Deyrup-Olsen Award for Distinguished Teaching Assistant, Department of Z
 Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, University of Washington, Seattle, Washington (1999)
 <p>
 
-### More information
+## More information
 
 You can find my complete CV [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf).
 

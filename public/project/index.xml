@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>https://faculty.washington.edu/scheuerl/project/</link>
+    <link>/scheuerl/project/</link>
     <description>Recent content in Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Integrated population models</title>
-      <link>https://faculty.washington.edu/scheuerl/project/ipm/</link>
+      <link>/scheuerl/project/ipm/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/project/ipm/</guid>
+      <guid>/scheuerl/project/ipm/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -32,10 +32,10 @@
     
     <item>
       <title>Multivariate Autoregressive State-Space (MARSS) models</title>
-      <link>https://faculty.washington.edu/scheuerl/project/marss/</link>
+      <link>/scheuerl/project/marss/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/project/marss/</guid>
+      <guid>/scheuerl/project/marss/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://faculty.washington.edu/eeholmes/&#34; target=&#34;_blank&#34;&gt;Eli Holmes&lt;/a&gt;, &lt;a href=&#34;https://faculty.washington.edu/warde/&#34; target=&#34;_blank&#34;&gt;Eric Ward&lt;/a&gt;, and I have developed an &lt;a href=&#34;https://cran.r-project.org/web/packages/MARSS/index.html&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; with a detailed &lt;a href=&#34;https://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf&#34; target=&#34;_blank&#34;&gt;user’s guide&lt;/a&gt; for analyzing a variety of multivariate time series problems under a maximum likelihood framework. Examples include movement tracking, dynamic linear models (DLM), dynamic factor analysis (DFA), and estimating community interactions &amp;amp; stability.&lt;/p&gt;
@@ -44,10 +44,10 @@
     
     <item>
       <title>Spatial Dynamic Factor Analysis (SDFA)</title>
-      <link>https://faculty.washington.edu/scheuerl/project/sdfa/</link>
+      <link>/scheuerl/project/sdfa/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/project/sdfa/</guid>
+      <guid>/scheuerl/project/sdfa/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;I have been working with &lt;a href=&#34;https://sites.google.com/site/thorsonresearch/&#34; target=&#34;_blank&#34;&gt;Jim Thorson&lt;/a&gt; and several others on a variety of applications of joint dynamic species density models (JDSDM) to marine and terrestrial fauna. You can learn more about the models, applications, and &lt;strong&gt;R&lt;/strong&gt; packages at the &lt;a href=&#34;https://james-thorson.github.io/&#34; target=&#34;_blank&#34;&gt;FishStats&lt;/a&gt; website.&lt;/p&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>Time-Varying Vector Autogressive State-Space (TVVARSS) models</title>
-      <link>https://faculty.washington.edu/scheuerl/project/tvvarss/</link>
+      <link>/scheuerl/project/tvvarss/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/project/tvvarss/</guid>
+      <guid>/scheuerl/project/tvvarss/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://faculty.washington.edu/warde/&#34; target=&#34;_blank&#34;&gt;Eric Ward&lt;/a&gt;, &lt;a href=&#34;http://cahnrs.wsu.edu/soe/people/facultynstaff/stephenkatz/&#34; target=&#34;_blank&#34;&gt;Steve Katz&lt;/a&gt;, and I have developed an &lt;a href=&#34;https://github.com/nwfsc-timeseries/tvvarss&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; to fit a Bayesian version of the model developed by &lt;a href=&#34;https://doi.org/10.1890/ES11-00347.1&#34; target=&#34;_blank&#34;&gt;Ives &amp;amp; Dakos (2012)&lt;/a&gt;. We expanded on their model to include multiple different forms of observation models. We are using it to examine changing species interactions and community stability in kelp forest ecosystems.&lt;/p&gt;
