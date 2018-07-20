@@ -1,6 +1,6 @@
 baseurl = "https://faculty.washington.edu/scheuerl/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #relativeurls = true
-title = "MARK SCHEUERELL"
+title = "Mark Scheuerell"
 copyright = "&copy; 2017 Mark Scheuerell"
 theme = "hugo-academic"
 enableEmoji = true
