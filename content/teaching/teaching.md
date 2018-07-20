@@ -19,9 +19,9 @@ weight = 60
 
 with [Eli Holmes](https://faculty.washington.edu/eeholmes/) & [Eric Ward](https://faculty.washington.edu/warde/)
 
-During winters of odd years we teach [_Applied Time Series Analysis in Fisheries and Environmental Sciences_](https://catalyst.uw.edu/workspace/fish203/35553/243766) (FISH 507), a 10-week long course in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/).
+During winters of odd years we teach [_Applied Time Series Analysis in Fisheries and Environmental Sciences_](https://nwfsc-timeseries.github.io/atsa/) (FISH 507), a 10-week long course in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/).
 
-Check out our [labbook](https://nwfsc-timeseries.github.io/AFTSLabbook/) in [bookdown](https://bookdown.org/) format.
+Check out our [labbook](https://nwfsc-timeseries.github.io/atsa-labs/) in [bookdown](https://bookdown.org/) format.
 
 ***
 
