@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on MARK SCHEUERELL</title>
-    <link>https://faculty.washington.edu/scheuerl/contact/</link>
+    <link>/scheuerl/contact/</link>
     <description>Recent content in Contact on MARK SCHEUERELL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Mark Scheuerell</copyright>
+    <copyright>&amp;copy; 2018 Mark Scheuerell</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     <atom:link href="/scheuerl/contact/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contact</title>
-      <link>https://faculty.washington.edu/scheuerl/contact/contact/</link>
+      <link>/scheuerl/contact/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/contact/contact/</guid>
+      <guid>/scheuerl/contact/contact/</guid>
       <description></description>
     </item>
     

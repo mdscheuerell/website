@@ -1,7 +1,7 @@
 baseurl = "https://faculty.washington.edu/scheuerl/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #relativeurls = true
 title = "MARK SCHEUERELL"
-copyright = "&copy; 2017 Mark Scheuerell"
+copyright = "&copy; 2018 Mark Scheuerell"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mark.scheuerell@noaa.gov"
-  address = "NOAA Northwest Fisheries Science Center <br> 2725 Montlake Blvd E <br> Seattle, WA 98112, USA"
+  address = "Northwest Fisheries Science Center <br> National Marine Fisheries Service <br> 2725 Montlake Blvd E <br> Seattle, WA 98112, USA"
   phone = "206 302 2437"
   skype = "mdscheuerell"
 
