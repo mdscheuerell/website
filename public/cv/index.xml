@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CV on MARK SCHEUERELL</title>
-    <link>https://faculty.washington.edu/scheuerl/cv/</link>
+    <link>/scheuerl/cv/</link>
     <description>Recent content in CV on MARK SCHEUERELL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,13 +12,13 @@
     
     <item>
       <title>Curriculum vitae</title>
-      <link>https://faculty.washington.edu/scheuerl/cv/cv/</link>
+      <link>/scheuerl/cv/cv/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/cv/cv/</guid>
+      <guid>/scheuerl/cv/cv/</guid>
       <description>
 
-&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 
 &lt;p&gt;PhD, Zoology, University of Washington, 2002 (advisor: DE Schindler)&lt;/p&gt;
 
@@ -28,7 +28,7 @@
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;professional-experience&#34;&gt;Professional experience&lt;/h1&gt;
+&lt;h2 id=&#34;professional-experience&#34;&gt;Professional experience&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;2003 - present&lt;/strong&gt;&lt;br /&gt;
 Research Fisheries Biologist, NOAA Northwest Fisheries Science Center&lt;/p&gt;
@@ -44,7 +44,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;fellowships&#34;&gt;Fellowships&lt;/h1&gt;
+&lt;h2 id=&#34;fellowships&#34;&gt;Fellowships&lt;/h2&gt;
 
 &lt;p&gt;National Research Council Postdoctoral Research Associateship (2003)&lt;/p&gt;
 
@@ -56,7 +56,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;awards-honors&#34;&gt;Awards &amp;amp; Honors&lt;/h1&gt;
+&lt;h2 id=&#34;awards-honors&#34;&gt;Awards &amp;amp; Honors&lt;/h2&gt;
 
 &lt;p&gt;Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)&lt;/p&gt;
 
@@ -72,7 +72,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 
 &lt;h4 id=&#34;authors-in-italics-were-students-or-post-docs-at-the-time-the-research-was-completed&#34;&gt;&lt;em&gt;Authors in italics&lt;/em&gt; were students or post-docs at the time the research was completed.&lt;/h4&gt;
 
@@ -206,7 +206,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;book-chapters&#34;&gt;Book chapters&lt;/h1&gt;
+&lt;h2 id=&#34;book-chapters&#34;&gt;Book chapters&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Scheuerell MD&lt;/strong&gt;, Hilborn R. 2009. Estimating the freshwater component of essential fish habitat for Pacific salmon (Oncorhynchus spp.) with the Shiraz model. Pages 187-202 in Knudsen EE, Michael H (Eds.). Pacific Salmon Environmental and Life History Models: Advancing Science for Sustainable Salmon in the Future. American Fisheries Society Symposium 71. Bethesda, Maryland.&lt;/p&gt;
 
@@ -216,7 +216,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;other-publications&#34;&gt;Other publications&lt;/h1&gt;
+&lt;h2 id=&#34;other-publications&#34;&gt;Other publications&lt;/h2&gt;
 
 &lt;p&gt;Buhle ER, Scheuerell MD, Cooney TD, Ford MJ, Zabel RW, Thorson JT. 2018. Using Integrated Population Models to Evaluate Fishery and Environmental Impacts on Pacific Salmon Viability. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-140. &lt;a href=&#34;https://doi.org/10.7289/V5/TM-NWFSC-140&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.7289/V5/TM-NWFSC-140&lt;/a&gt;&lt;/p&gt;
 
@@ -234,7 +234,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;technical-products&#34;&gt;Technical products&lt;/h1&gt;
+&lt;h2 id=&#34;technical-products&#34;&gt;Technical products&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;R packages&lt;/strong&gt;&lt;/p&gt;
 
@@ -249,7 +249,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;invited-presentations&#34;&gt;Invited presentations&lt;/h1&gt;
+&lt;h2 id=&#34;invited-presentations&#34;&gt;Invited presentations&lt;/h2&gt;
 
 &lt;p&gt;The development and application of new tools in quantitative ecology. Western Society of Naturalists Meeting, November 17, 2017, Pasadena, California&lt;/p&gt;
 
@@ -289,7 +289,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;external-support&#34;&gt;External support&lt;/h1&gt;
+&lt;h2 id=&#34;external-support&#34;&gt;External support&lt;/h2&gt;
 
 &lt;p&gt;North Pacific Research Board ($82k) 2017-2018. Retrospective analysis of long-term census data to identify factors affecting survival and life history strategies of coho salmon (Collaborator with Tallmon, Vulstek)&lt;/p&gt;
 
@@ -307,7 +307,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;society-membership&#34;&gt;Society membership&lt;/h1&gt;
+&lt;h2 id=&#34;society-membership&#34;&gt;Society membership&lt;/h2&gt;
 
 &lt;p&gt;Ecological Society of America&lt;/p&gt;
 
@@ -325,7 +325,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;editorial-responsibilities&#34;&gt;Editorial responsibilities&lt;/h1&gt;
+&lt;h2 id=&#34;editorial-responsibilities&#34;&gt;Editorial responsibilities&lt;/h2&gt;
 
 &lt;p&gt;Associate Editor, &lt;em&gt;Limnology and Oceanography Letters&lt;/em&gt; (2016-present)&lt;/p&gt;
 
@@ -341,7 +341,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;national-international-service&#34;&gt;National &amp;amp; international service&lt;/h1&gt;
+&lt;h2 id=&#34;national-international-service&#34;&gt;National &amp;amp; international service&lt;/h2&gt;
 
 &lt;p&gt;Mentor, EcologyPlus Program from NSF INCLUDES (Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science) (2018-present)&lt;/p&gt;
 
@@ -359,7 +359,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;teaching-experience&#34;&gt;Teaching experience&lt;/h1&gt;
+&lt;h2 id=&#34;teaching-experience&#34;&gt;Teaching experience&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;2013 - present&lt;/strong&gt;&lt;/p&gt;
 
@@ -383,7 +383,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;trainees&#34;&gt;Trainees&lt;/h1&gt;
+&lt;h2 id=&#34;trainees&#34;&gt;Trainees&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Post-doctoral&lt;/strong&gt;&lt;/p&gt;
 
