@@ -8,7 +8,7 @@ date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Curriculum vitae"
-subtitle = "Complete version [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf)."
+subtitle = "PDF version [here](https://faculty.washington.edu/scheuerl/MDScheuerell_CV.pdf)."
 
 # Order that this section will appear in.
 weight = 65
@@ -53,7 +53,7 @@ Electric Power Research Institute Fellowship in Fish Population Biology (1994)
 
 ***
 
-# Awards & Honors {.hangingindent}
+# Awards & Honors
 
 Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
 
@@ -69,7 +69,7 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 ***
 
-# Publications  {.hangingindent}
+# Publications 
 
 #### _Authors in italics_ were students or post-docs at the time the research was completed.
 
@@ -203,7 +203,7 @@ _Smits, AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, _
 
 ***
 
-# Book chapters  {.hangingindent}
+# Book chapters 
 
 __Scheuerell MD__, Hilborn R. 2009. Estimating the freshwater component of essential fish habitat for Pacific salmon (Oncorhynchus spp.) with the Shiraz model. Pages 187-202 in Knudsen EE, Michael H (Eds.). Pacific Salmon Environmental and Life History Models: Advancing Science for Sustainable Salmon in the Future. American Fisheries Society Symposium 71. Bethesda, Maryland.
 
@@ -213,7 +213,7 @@ Dini ML, Soranno PA, __Scheuerell MD__, Carpenter SR. 1993. Effects of predators
 
 ***
 
-# Other publications  {.hangingindent}
+# Other publications 
 
 Buhle ER, Scheuerell MD, Cooney TD, Ford MJ, Zabel RW, Thorson JT. 2018. Using Integrated Population Models to Evaluate Fishery and Environmental Impacts on Pacific Salmon Viability. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-140. https://doi.org/10.7289/V5/TM-NWFSC-140
 
@@ -231,7 +231,7 @@ Williams JG, Smith SG, Zabel RW, Muir WD, Scheuerell MD, Sandford BP, Marsh DM, 
 
 ***
 
-# Technical products  {.hangingindent}
+# Technical products 
 
 __R packages__
 
@@ -246,7 +246,7 @@ https://doi.org/10.5281/zenodo.439391
 
 ***
 
-# Invited presentations  {.hangingindent}
+# Invited presentations 
 
 The development and application of new tools in quantitative ecology. Western Society of Naturalists Meeting, November 17, 2017, Pasadena, California
 
@@ -286,7 +286,7 @@ Impacts of lakeshore residential development on the spatial distribution and ene
 
 ***
 
-# External support  {.hangingindent}
+# External support 
 
 North Pacific Research Board ($82k) 2017-2018. Retrospective analysis of long-term census data to identify factors affecting survival and life history strategies of coho salmon (Collaborator with Tallmon, Vulstek)
 
@@ -318,7 +318,7 @@ American Fisheries Society
 
 ***
 
-# Editorial responsibilities  {.hangingindent}
+# Editorial responsibilities 
 
 Associate Editor, _Limnology and Oceanography Letters_ (2016-present)
 
@@ -330,12 +330,11 @@ Associate Editor, _Ecological Research_ (2007-2017)
 
 Outstanding Reviewer, _Canadian Journal of Fisheries and Aquatic Sciences_ (2017)
 
-Manuscript & book reviewer for
-_Behavioural Ecology ∙ Canadian Journal of Fisheries and Aquatic Sciences ∙ Canadian Journal of Zoology ∙ Conservation Biology ∙ Ecography ∙ Ecological Applications ∙ Ecological Modelling ∙ Ecology ∙ Ecology and Society ∙ Ecology Letters ∙ Ecosphere ∙ Ecosystems ∙ Environmental Biology of Fishes ∙ Fisheries Oceanography ∙ Freshwater Biology ∙ Frontiers in Ecology and the Environment ∙ Global Change Biology ∙ Journal of Animal Ecology ∙ Journal of Applied Ecology ∙ Journal of Bioeconomics ∙ Limnology & Oceanography ∙ North American Journal of Fisheries Management ∙ Oecologia ∙ Oikos ∙ PLoS Biology ∙ PLoS ONE ∙ Proceedings of the National Academy of Sciences ∙ Transactions of the American Fisheries Society ∙ Trends in Ecology and Evolution_
+Manuscript & book reviewer for _Behavioural Ecology ∙ Canadian Journal of Fisheries and Aquatic Sciences ∙ Canadian Journal of Zoology ∙ Conservation Biology ∙ Ecography ∙ Ecological Applications ∙ Ecological Modelling ∙ Ecology ∙ Ecology and Society ∙ Ecology Letters ∙ Ecosphere ∙ Ecosystems ∙ Environmental Biology of Fishes ∙ Fisheries Oceanography ∙ Freshwater Biology ∙ Frontiers in Ecology and the Environment ∙ Global Change Biology ∙ Journal of Animal Ecology ∙ Journal of Applied Ecology ∙ Journal of Bioeconomics ∙ Limnology & Oceanography ∙ North American Journal of Fisheries Management ∙ Oecologia ∙ Oikos ∙ PLoS Biology ∙ PLoS ONE ∙ Proceedings of the National Academy of Sciences ∙ Transactions of the American Fisheries Society ∙ Trends in Ecology and Evolution_
 
 ***
 
-# National & international service  {.hangingindent}
+# National & international service 
 
 Mentor, EcologyPlus Program from NSF INCLUDES (Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science) (2018-present)
 
@@ -353,7 +352,7 @@ Member, Biological Review Team, National Marine Fisheries Service Risk Assessmen
 
 ***
 
-# Teaching experience   {.hangingindent}
+# Teaching experience  
 
 __2013 - present__
 
@@ -410,63 +409,3 @@ __M.S. students__
 __Undergraduate students__
 
 * Christina Murphy (NOAA Ernest F. Hollings Undergraduate Scholarship Program)
-
-## Education
-
-PhD, Zoology, University of Washington, 2002 (advisor: DE Schindler)  
-
-MS, Fishery and Aquatic Science, Cornell University, 1995 (advisors: LG Rudstam & EL Mills)  
-
-BS, Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter & JF Kitchell)  
-
-***
-
-## Professional experience
-
-__2003 - present__  
-Research Fisheries Biologist, NOAA Northwest Fisheries Science Center
-
-__2016 - present__  
-Affiliate Associate Professor, School of Aquatic and Fishery Sciences, University of Washington
-
-__2007 - 2016__  
-Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, University of Washington
-
-__2002 - 2003__  
-Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of Washington
-
-***
-
-## Fellowships
-
-National Research Council Postdoctoral Research Associateship (2003)
-
-Ford Foundation Fellowship in Environmental Science (2002)  
-
-NSF Graduate Research Training Grant in Mathematical Biology (1999)  
-
-Electric Power Research Institute Fellowship in Fish Population Biology (1994)
-
-***
-
-## Awards & Honors
-
-<p class="hang">
-Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
-<p>
-<p class="hang">
-Selection to the American Society of Limnology and Oceanography DIALOG V Symposium, Bermuda Biological Station for Research, The Bermuda Islands (2003)  
-<p>
-<p class="hang">
-Best Student Presentation, American Fisheries Society, Alaska Chapter Annual Meeting, Girdwood, Alaska  (2002)  
-<p>
-<p class="hang">
-Best Student Presentation, Ecological Society of America Annual Meeting, Aquatic Section, Madison, Wisconsin (2001)  
-<p>
-<p class="hang">
-Ingrith Deyrup-Olsen Award for Distinguished Teaching Assistant, Department of Zoology, University of Washington, Seattle, Washington (2000)  
-<p>
-<p class="hang">
-Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, University of Washington, Seattle, Washington (1999)
-<p>
-
