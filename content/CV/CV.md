@@ -15,7 +15,7 @@ weight = 65
 
 +++
 
-# Education
+## Education
 
 PhD, Zoology, University of Washington, 2002 (advisor: DE Schindler)  
 
@@ -25,7 +25,7 @@ BS, Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter & JF Kitchell
 
 ***
 
-# Professional experience
+## Professional experience
 
 __2003 - present__  
 Research Fisheries Biologist, NOAA Northwest Fisheries Science Center
@@ -41,7 +41,7 @@ Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of W
 
 ***
 
-# Fellowships
+## Fellowships
 
 National Research Council Postdoctoral Research Associateship (2003)
 
@@ -53,7 +53,7 @@ Electric Power Research Institute Fellowship in Fish Population Biology (1994)
 
 ***
 
-# Awards & Honors
+## Awards & Honors
 
 Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
 
@@ -69,7 +69,7 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 ***
 
-# Publications 
+## Publications 
 
 #### _Authors in italics_ were students or post-docs at the time the research was completed.
 
@@ -203,7 +203,7 @@ _Smits, AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, _
 
 ***
 
-# Book chapters 
+## Book chapters 
 
 __Scheuerell MD__, Hilborn R. 2009. Estimating the freshwater component of essential fish habitat for Pacific salmon (Oncorhynchus spp.) with the Shiraz model. Pages 187-202 in Knudsen EE, Michael H (Eds.). Pacific Salmon Environmental and Life History Models: Advancing Science for Sustainable Salmon in the Future. American Fisheries Society Symposium 71. Bethesda, Maryland.
 
@@ -213,7 +213,7 @@ Dini ML, Soranno PA, __Scheuerell MD__, Carpenter SR. 1993. Effects of predators
 
 ***
 
-# Other publications 
+## Other publications 
 
 Buhle ER, Scheuerell MD, Cooney TD, Ford MJ, Zabel RW, Thorson JT. 2018. Using Integrated Population Models to Evaluate Fishery and Environmental Impacts on Pacific Salmon Viability. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-140. https://doi.org/10.7289/V5/TM-NWFSC-140
 
@@ -231,7 +231,7 @@ Williams JG, Smith SG, Zabel RW, Muir WD, Scheuerell MD, Sandford BP, Marsh DM, 
 
 ***
 
-# Technical products 
+## Technical products 
 
 __R packages__
 
@@ -246,7 +246,7 @@ https://doi.org/10.5281/zenodo.439391
 
 ***
 
-# Invited presentations 
+## Invited presentations 
 
 The development and application of new tools in quantitative ecology. Western Society of Naturalists Meeting, November 17, 2017, Pasadena, California
 
@@ -286,7 +286,7 @@ Impacts of lakeshore residential development on the spatial distribution and ene
 
 ***
 
-# External support 
+## External support 
 
 North Pacific Research Board ($82k) 2017-2018. Retrospective analysis of long-term census data to identify factors affecting survival and life history strategies of coho salmon (Collaborator with Tallmon, Vulstek)
 
@@ -304,7 +304,7 @@ NOAA Fisheries And The Environment (FATE) Program ($118k) 2006-2007. Developing 
 
 ***
 
-# Society membership
+## Society membership
 
 Ecological Society of America  
 
@@ -318,7 +318,7 @@ American Fisheries Society
 
 ***
 
-# Editorial responsibilities 
+## Editorial responsibilities 
 
 Associate Editor, _Limnology and Oceanography Letters_ (2016-present)
 
@@ -334,7 +334,7 @@ Manuscript & book reviewer for _Behavioural Ecology ∙ Canadian Journal of Fish
 
 ***
 
-# National & international service 
+## National & international service 
 
 Mentor, EcologyPlus Program from NSF INCLUDES (Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science) (2018-present)
 
@@ -352,7 +352,7 @@ Member, Biological Review Team, National Marine Fisheries Service Risk Assessmen
 
 ***
 
-# Teaching experience  
+## Teaching experience  
 
 __2013 - present__
 
@@ -376,7 +376,7 @@ Teaching Assistant, Biology Program, University of Washington: _Limnology_, _Ver
 
 ***
 
-# Trainees
+## Trainees
 
 __Post-doctoral__
 
