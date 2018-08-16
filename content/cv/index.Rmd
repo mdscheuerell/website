@@ -1,0 +1,198 @@
+---
+date: "`r paste0('v',format(Sys.time(), '%y.%m.%d'))`"
+output: 
+  html_document:
+    fig_caption: yes
+    theme: flatly
+    toc: yes
+    toc_depth: 1
+    toc_float: yes
+    number_sections: false
+    css: custom.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Education
+
+PhD, Zoology, University of Washington, 2002 (advisor: DE Schindler)  
+
+MS, Fishery and Aquatic Science, Cornell University, 1995 (advisors: LG Rudstam & EL Mills)  
+
+BS, Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter & JF Kitchell)  
+
+***
+
+# Professional experience
+
+__2003 - present__  
+Research Fisheries Biologist, NOAA Northwest Fisheries Science Center
+
+__2016 - present__  
+Affiliate Associate Professor, School of Aquatic and Fishery Sciences, University of Washington
+
+__2007 - 2016__  
+Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, University of Washington
+
+__2002 - 2003__  
+Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of Washington
+
+***
+
+# Fellowships
+
+National Research Council Postdoctoral Research Associateship (2003)
+
+Ford Foundation Fellowship in Environmental Science (2002)  
+
+NSF Graduate Research Training Grant in Mathematical Biology (1999)  
+
+Electric Power Research Institute Fellowship in Fish Population Biology (1994)
+
+***
+
+# Awards & Honors {.hangingindent}
+
+Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
+
+Selection to the American Society of Limnology and Oceanography DIALOG V Symposium, Bermuda Biological Station for Research, The Bermuda Islands (2003)  
+
+Best Student Presentation, American Fisheries Society, Alaska Chapter Annual Meeting, Girdwood, Alaska  (2002)  
+
+Best Student Presentation, Ecological Society of America Annual Meeting, Aquatic Section, Madison, Wisconsin (2001)  
+
+Ingrith Deyrup-Olsen Award for Distinguished Teaching Assistant, Department of Zoology, University of Washington, Seattle, Washington (2000)  
+
+Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, University of Washington, Seattle, Washington (1999)
+
+# Publications  {.hangingindent}
+
+[ _In review_ ]
+
+Hampton SE, __Scheuerell MD__, Church MJ, Melack JM. Long-term perspectives in aquatic research. Limnology and Oceanography
+
+__Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. Estimating density-dependent population dynamics in a variable environment with imperfect data.
+
+Thorson JT, __Scheuerell MD__, Olden JD, Schindler DE. Spatial heterogeneity contributes more to portfolio effects than species differences in bottom-associated marine fishes. Proceedings of the Royal Society B
+
+Smits, AP, Ruffing CM, Royer TV, Appling AP, Griffiths NA, Bellmore R, __Scheuerell MD__, Harms TK, Jones J. Detecting signals of large-scale climate phenomena on river flows and nitrogen, phosphorus, and silica loads in the Mississippi-Atchafalaya River basin. Geophysical Research Letters
+
+[ _In press or published_ ]
+
+58\. Ward EJ, Oken K, Rose KA, Sable S, Watkins K, Holmes EE, __Scheuerell MD__. 2018. Applying spatiotemporal models to monitoring data to quantify fish responses to the Deepwater Horizon oil spill in the Gulf of Mexico. Environmental Monitoring and Assessment
+
+57\. Bal G, __Scheuerell MD__, Ward EJ. 2018. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. Ecological Modelling 381:1-9
+
+56\. Freshwater C, Burke BJ, __Scheuerell MD__, Grant SCH, Trudel M, Juanes F. 2018. Coherent population dynamics associated with sockeye salmon juvenile life history strategies. Canadian Journal of Fisheries and Aquatic Sciences 75:1346–1356
+
+55\. Ardón M, Helton AM, __Scheuerell MD__, Bernhardt ES. 2017. Fertilizer legacies meet saltwater incursion: challenges and constraints for coastal plain wetland restoration. Elementa: Science of the Anthropocene 5:41
+
+54\. Honea JM, McClure MM, Jorgensen JC, __Scheuerell MD__. 2016. Assessing the vulnerability of freshwater life stages of Chinook salmon to climate change. Climate Research 71:127-137
+
+53\. Goertler PAL, __Scheuerell MD__, Simenstad CA, Bottom DL. 2016. Estimating common growth patterns in juvenile Chinook salmon (Oncorhynchus tshawytscha) from diverse genetic stocks and a large spatial extent. PLoS ONE 11:e0162121
+
+52\. Thorson JT, Ianelli JN, Larsen EA, Ries L __Scheuerell MD__, Szuwalski CS, Zipkin EF. 2016. Joint dynamic species distribution models: a tool for community ordination and spatiotemporal monitoring. Global Ecology and Biogeography 25:1144–1158
+
+51\. Ohlberger J, __Scheuerell MD__, Schindler DE. 2016. Population coherence and environmental impacts across spatial scales: a case study of Chinook salmon. Ecosphere 7:e01333
+
+50\. Jorgensen JC, Ward EJ, __Scheuerell MD__, Zabel RW. 2016. Assessing spatial covariance among time series of abundance. Ecology and Evolution 6:2472–2485
+
+49\. __Scheuerell MD__. 2016. An explicit solution for calculating optimum spawning stock size from Ricker's stock recruitment model. PeerJ 4:e1623
+
+48\. Thorson JT, __Scheuerell MD__, Shelton AO, See K, Skaug H, Kristensen K. 2015. Spatial factor analysis: a new tool for estimating joint species distributions and correlations in species range. Methods in Ecology and Evolution 6:627-637
+
+47\. __Scheuerell MD__, Buhle ER, Semmens BX, Ford MJ, Cooney T, Carmichael RW. 2015. Analyzing large-scale conservation interventions with Bayesian hierarchical models: A case study of supplementing threatened Pacific salmon. Ecology and Evolution 5:2115–2125
+
+46\. Lisi PJ, Schindler DE, Cline TJ, __Scheuerell MD__, Walsh PB. 2015. Topography and snowmelt control stream thermal sensitivity to air temperature. Geophysical Research Letters 42:3380-3388
+
+45\. Thorson JT, __Scheuerell MD__, Semmens BX, Pattengill-Semmens C. 2014. Demographic modeling of citizen science data informs habitat preferences and population dynamics of recovering fishes. Ecology 95:3251-3258
+
+44\. Francis TB, Wolkovich EM, __Scheuerell MD__, Katz SL, Holmes EE, Hampton SE. 2014. Shifting regimes and changing interactions in the Lake Washington, U.S.A., plankton community from 1962–1994. PLoS ONE 9(10):e110363
+
+43\. Griffiths JR, Schindler DE, Armstrong JB, __Scheuerell MD__, Whited DC, Clarke RA, Hilborn R, Holt CA, Lindley ST, Stanford JA, Volk EC. 2014. Performance of salmon fishery portfolios across western North America. Journal of Applied Ecology 51:1554–1563
+
+42\. Williams JG, Smith SG, Fryer J, __Scheuerell MD__, Muir WD, Flagg TA, Zabel RW, Ferguson JW, Casillas E. 2014. Influence of ocean and freshwater conditions on Columbia River sockeye salmon adult return rates. Fisheries Oceanography 23:210–224
+
+41\. Stachura MM, Mantua NJ, __Scheuerell MD__. 2014. Oceanographic influences on spatio-temporal patterns in North Pacific salmon abundance. Canadian Journal of Fisheries and Aquatic Sciences 71:226-235
+
+40\. Thorson JT, __Scheuerell MD__, Buhle ER, Copeland T. 2014. Spatial diversity buffers temporal variability in early juvenile survival for an endangered Pacific salmon. Journal of Animal Ecology 83:157–167
+
+39\. Hampton SE, Holmes EE, Scheef LP, __Scheuerell MD__, Katz SL, Pendleton DE, Ward EJ. 2013. Quantifying effects of abiotic and biotic drivers on community dynamics with multivariate autoregressive (MAR) models. Ecology 94:2663–2669
+
+38\. Holsman KK, __Scheuerell MD__, Buhle ER, Emmett R. 2012. Interacting effects of translocation, artificial propagation, and environmental conditions on the marine survival of Chinook salmon from the Columbia River, Washington, U.S.A. Conservation Biology 26:912-922 
+
+37\. Francis TB, __Scheuerell MD__, Brodeur R, Levin PS, Ruzicka JJ, Tolimieri N, Peterson WT. 2012. Climate shifts the interaction web of a marine plankton community. Global Change Biology 18:2498–2508
+
+36\. Scheef LP, Pendleton DE, Hampton SE, Katz SL, Holmes EE, __Scheuerell MD__, Johns DG. 2012. Assessing marine plankton community structure from long-term monitoring data with multivariate autoregressive (MAR) models: a comparison of fixed station versus spatially distributed sampling data. Limnology and Oceanography: Methods 10:54-64
+
+35\. Crozier LG, __Scheuerell MD__, Zabel RW. 2011. Using time series analysis to characterize evolutionary and plastic responses to environmental change: a case study of a shift toward earlier migration date in sockeye salmon. The American Naturalist 178:755-773
+
+34\. Francis TB, Schindler DE, Holtgrieve G, Larson E, __Scheuerell MD__, Semmens BX, Ward EJ. 2011. Habitat structure and energetic support for zooplankton in temperate lakes. Ecology Letters 14:364-372
+
+33\. __Scheuerell MD__, Zabel RW, Sandford BP. 2009. Relating juvenile migration timing and survival to adulthood in two species of threatened Pacific salmon (Oncorhynchus spp.). Journal of Applied Ecology 46:983–990
+
+32\. Buhle ER, Holsman KK, __Scheuerell MD__, Albaugh A. 2009. Using an unplanned experiment to evaluate the effects of hatcheries and environmental variation on threatened populations of wild salmon. Biological Conservation 142:2449–2455
+
+31\. Rich HB, Quinn TP, __Scheuerell MD__, Schindler DE.  2009. Climate and intra-specific competition control the growth and life history of juvenile sockeye salmon (Oncorhynchus nerka) in Iliamna Lake, Alaska.  Canadian Journal of Fisheries and Aquatic Sciences 66:238-246
+
+30\. Anguilletta MJ, Steel EA, Bartz KK, Kingsolver JG, __Scheuerell MD__, Beckman BR, Crozier LG. 2008. Big dams and salmon evolution: changes in thermal regimes and their potential evolutionary consequences. Evolutionary Applications 1:286-299
+
+29\. Waples RS, Zabel RW, __Scheuerell MD__, Sanderson BL. 2008. Evolutionary responses by native species to major anthropogenic changes to their ecosystems: Pacific salmon in the Columbia River hydropower system. Molecular Ecology 17:84-96
+
+28\. __Scheuerell MD__, Moore JW, Schindler DE, Harvey CJ. 2007. Varying effects of anadromous sockeye salmon on the trophic ecology of two species of resident salmonids in southwest Alaska. Freshwater Biology 52:1944-1956
+
+27\. Hampton SE, __Scheuerell MD__, Schindler DE. 2006. Coalescence in the Lake Washington story: interaction strengths in a planktonic food web. Limnology and Oceanography 51:2042-2051
+
+26\. __Scheuerell MD__, Hilborn R, Ruckelshaus MH, Bartz KK, Lagueux KM, Hass AD, Rawson K. 2006. The Shiraz model: a tool for incorporating anthropogenic effects and fish-habitat relationships in conservation planning. Canadian Journal of Fisheries and Aquatic Sciences 63:1596-1607
+
+25\. Bartz KK, Lagueux KM, __Scheuerell MD__, Beechie TJ, Ruckelshaus MH. 2006. Translating restoration scenarios into habitat conditions: an initial step in evaluating recovery strategies for Chinook salmon (Oncorhynchus tshawytscha). Canadian Journal of Fisheries and Aquatic Sciences 63:1578-1595
+
+24\. Zabel RW, __Scheuerell MD__, McClure MM, Williams JG. 2006. The interplay between climate variability and density dependence in the population viability of Chinook salmon. Conservation Biology 20:190-200
+
+23\. Scheuerell JM, Schindler DE, __Scheuerell MD__, Fresh KL, Litt AH, Shepherd JA, Sibley T. 2005. Temporal dynamics in foraging behavior of a pelagic predator. Canadian Journal of Fisheries and Aquatic Sciences 62:2494-2501
+
+22\. __Scheuerell MD__, Williams JG. 2005. Forecasting climate-induced changes in the survival of Snake River spring/summer Chinook salmon. Fisheries Oceanography 14:448-457
+
+21\. __Scheuerell MD__. 2005. The influence of juvenile size on the age at maturity of individually-marked wild Chinook salmon. Transactions of the American Fisheries Society 134:999-1004 
+
+20\. Romare P, Schindler DE, __Scheuerell MD__, Scheuerell JM, Litt AH, Shepherd JH. 2005. Variation in spatial and temporal gradients in zooplankton spring development: the effect of climatic factors. Freshwater Biology 50:1007-1021
+
+19\. __Scheuerell MD__, Levin PS, Zabel RW, Williams JG, Sanderson BL. 2005. A new perspective on the importance of marine-derived nutrients to threatened stocks of Pacific salmon (Oncorhynchus sp.). Canadian Journal of Fisheries and Aquatic Sciences 62:961-964
+
+18\. Schindler DE, Rogers DE, __Scheuerell MD__, Abrey CA. 2005. Effects of changing climate on zooplankton and juvenile sockeye salmon growth in southwestern Alaska. Ecology 86:198-209
+
+17\. __Scheuerell MD__. 2004. Quantifying aggregation and association in three dimensional landscapes. Ecology 85:2332-2340
+
+16\. Beauchamp DA, Sergeant CJ, Mazur MM, Scheuerell JM, Schindler DE, __Scheuerell MD__, Fresh KL, Seiler DE, Quinn TP. 2004. Spatial-temporal dynamics of early feeding demand and food supply by sockeye salmon fry in Lake Washington. Transactions of the American Fisheries Society 133:1014-1032
+
+15\. __Scheuerell MD__, Schindler DE. 2004. Changes in the spatial distribution of fishes in lakes along a residential development gradient. Ecosystems 7:98-106
+
+14\. Moore JW, Schindler DE, __Scheuerell MD__. 2004. Disturbance of freshwater habitats by anadromous salmon in Alaska. Oecologia 139:298-308
+
+13\. Hilborn R, Branch TA, Ernst B, Magnusson A, Minte-Vera CV, __Scheuerell MD__, Valero JL. 2003. State of the world’s fisheries. Annual Review of Environment and Resources 23:359-399
+
+12\. __Scheuerell MD__, Schindler DE. 2003. Diel vertical migration by juvenile sockeye salmon: empirical evidence for the antipredation window. Ecology 84:1713-1720
+
+11\. Schindler DE, __Scheuerell MD__, Moore JW, Gende SM, Francis TB, Palen WJ. 2003. Pacific salmon and the ecology of coastal ecosystems. Frontiers in Ecology and the Environment 1:31-37
+
+10\. Moore JW, Schindler DE, __Scheuerell MD__, Smith D, Frodge J. 2003. Lake eutrophication at the urban fringe. Ambio 32:13-18
+
+9\. __Scheuerell MD__, Schindler DE, Litt AH, Edmondson WT. 2002. Environmental and algal forcing of Daphnia production dynamics. Limnology and Oceanography 47:1477-1485
+
+8\. Schindler DE, __Scheuerell MD__. 2002. Habitat coupling in lake ecosystems. Oikos 98:177-189
+
+7\. Rudstam LG, Van de Valk A, __Scheuerell MD__. 2002. Comparison of acoustic and standard estimates of larval fish abundance in Oneida Lake, New York. Fisheries Research 57:145-154
+
+6\. Delany MF, Lockley TC, Pranty B, __Scheuerell MD__. 2000. Stomach contents of two nestling Florida Grasshopper Sparrows. Florida Field Naturalist 28:75-77
+
+5\. Perkins DW, Vickery PD, Dean TF, __Scheuerell MD__. 1998. Nesting records and reproductive success of Florida Grasshopper Sparrows (Ammodramus savannarum floridanus). Florida Field Naturalist 26:7-17.
+
+4\. Pranty B, __Scheuerell MD__. 1997. First summer record of the Henslow’s Sparrow in Florida. Florida Field Naturalist 25:64-66
+
+3\. Mills EL, __Scheuerell MD__, Carlton JT, Strayer DL. 1997. Biological invasions in the Hudson River: an inventory and historical analysis. Bulletin of the New York State Museum 57:1-51
+
+2\. Mills EL, Strayer DL, __Scheuerell MD__, Carlton JT. 1996. Exotic species in the Hudson River basin: a history of invasions and introductions. Estuaries 19:814-823
+
+1\. He X, Scheurell MD, Soranno PA, Wright RA. 1994. Recurrent response patterns of a zooplankton community to whole-lake fish manipulation. Freshwater Biology 32:61-72
