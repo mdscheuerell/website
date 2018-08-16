@@ -15,18 +15,16 @@ weight = 60
 
 +++
 
-## Applied Time Series Analysis in Fisheries & Environmental Sciences
+## [Applied Time Series Analysis in Fisheries & Environmental Sciences](https://nwfsc-timeseries.github.io/atsa/)
 
 with [Eli Holmes](https://faculty.washington.edu/eeholmes/) & [Eric Ward](https://faculty.washington.edu/warde/)
 
-During winters of odd years we teach [_Applied Time Series Analysis in Fisheries and Environmental Sciences_](https://nwfsc-timeseries.github.io/atsa/) (FISH 507), a 10-week course in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/).
-
-Check out our [labbook](https://nwfsc-timeseries.github.io/atsa-labs/) in [bookdown](https://bookdown.org/) format.
+Offered during the winter quarter of odd years as FISH 507 in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the [University of Washington](https://www.washington.edu/).
 
 ***
 
-## Applied Time Series for Ecology
+## [Applied Time Series for Ecology](https://timeseriescourseemb.wordpress.com/)
 
 with [Eli Holmes](https://faculty.washington.edu/eeholmes/)
 
-In March of 2014 we taught [_Applied Time Series for Ecology_](https://timeseriescourseemb.wordpress.com/), a weeklong short course in the [Department of Ecology, Environment and Plant Sciences](http://su.se/deep/english/) at [Stockholm University](http://www.su.se/english/).
+In March of 2014 we taught a weeklong short course in the [Department of Ecology, Environment and Plant Sciences](http://su.se/deep/english/) at [Stockholm University](http://www.su.se/english/).
