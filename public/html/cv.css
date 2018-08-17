@@ -1,0 +1,8 @@
+.hangingindent {
+  padding-left: 25px ;
+  text-indent: -25px ;
+}
+
+.indent {
+  padding-left: 25px ;
+}
