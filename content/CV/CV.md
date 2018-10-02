@@ -79,13 +79,13 @@ Hampton SE, __Scheuerell MD__, Church MJ, Melack JM. Long-term perspectives in a
 
 __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. Estimating density-dependent population dynamics in a variable environment with imperfect data.
 
-Thorson JT, __Scheuerell MD__, Olden JD, Schindler DE. Spatial heterogeneity contributes more to portfolio effects than species differences in bottom-associated marine fishes. Proceedings of the Royal Society B
-
 _Smits, AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, __Scheuerell MD__, Harms TK, Jones J. Detecting signals of large-scale climate phenomena on river flows and nitrogen, phosphorus, and silica loads in the Mississippi-Atchafalaya River basin. Geophysical Research Letters
 
 [ _In press or published_ ]
 
-58\. Ward EJ, _Oken K_, Rose KA, Sable S, Watkins K, Holmes EE, __Scheuerell MD__. 2018. Applying spatiotemporal models to monitoring data to quantify fish responses to the Deepwater Horizon oil spill in the Gulf of Mexico. Environmental Monitoring and Assessment
+59\. Thorson JT, __Scheuerell MD__, Olden JD, Schindler DE. Spatial heterogeneity contributes more to portfolio effects than species differences in bottom-associated marine fishes. Proceedings of the Royal Society B
+
+58\. Ward EJ, _Oken K_, Rose KA, Sable S, Watkins K, Holmes EE, __Scheuerell MD__. 2018. Applying spatiotemporal models to monitoring data to quantify fish responses to the Deepwater Horizon oil spill in the Gulf of Mexico. Environmental Monitoring and Assessment 190:530
 
 57\. _Bal G_, __Scheuerell MD__, Ward EJ. 2018. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. Ecological Modelling 381:1-9
 
@@ -247,6 +247,8 @@ https://doi.org/10.5281/zenodo.439391
 ***
 
 ## Invited presentations 
+
+Improved understanding of fisheries and ecosystems from noisy and disparate data. University of Alaska Fairbanks, College of Fisheries and Ocean Sciences, September 26, 2018, Fairbanks, Alaska
 
 The development and application of new tools in quantitative ecology. Western Society of Naturalists Meeting, November 17, 2017, Pasadena, California
 
