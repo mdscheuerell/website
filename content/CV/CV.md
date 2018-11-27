@@ -27,17 +27,17 @@ BS, Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter & JF Kitchell
 
 ## Professional experience
 
+_Research Fisheries Biologist, NOAA Northwest Fisheries Science Center_
 __2003 - present__  
-Research Fisheries Biologist, NOAA Northwest Fisheries Science Center
 
+_Affiliate Associate Professor, School of Aquatic and Fishery Sciences, University of Washington_
 __2016 - present__  
-Affiliate Associate Professor, School of Aquatic and Fishery Sciences, University of Washington
 
+_Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, University of Washington_
 __2007 - 2016__  
-Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, University of Washington
 
+_Postdoctoral Fellow, National Research Council_
 __2002 - 2003__  
-Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of Washington
 
 ***
 
@@ -75,15 +75,15 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 [ _In review_ ]
 
-Hampton SE, __Scheuerell MD__, Church MJ, Melack JM. Long-term perspectives in aquatic research. Limnology and Oceanography
-
 __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. Estimating density-dependent population dynamics in a variable environment with imperfect data.
 
-_Smits, AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, __Scheuerell MD__, Harms TK, Jones J. Detecting signals of large-scale climate phenomena on river flows and nitrogen, phosphorus, and silica loads in the Mississippi-Atchafalaya River basin. Geophysical Research Letters
+_Smits, AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, __Scheuerell MD__, Harms TK, Jones J. Detecting signals of large-scale climate phenomena on river flows and nitrogen, phosphorus, and silica loads in the Mississippi-Atchafalaya River basin.
 
 [ _In press or published_ ]
 
-59\. Thorson JT, __Scheuerell MD__, Olden JD, Schindler DE. Spatial heterogeneity contributes more to portfolio effects than species differences in bottom-associated marine fishes. Proceedings of the Royal Society B
+60\. Hampton SE, __Scheuerell MD__, Church MJ, Melack JM. Long-term perspectives in aquatic research. Limnology and Oceanography
+
+59\. Thorson JT, __Scheuerell MD__, Olden JD, Schindler DE. Spatial heterogeneity contributes more to portfolio effects than species differences in bottom-associated marine fishes. Proceedings of the Royal Society B 285:20180915
 
 58\. Ward EJ, _Oken K_, Rose KA, Sable S, Watkins K, Holmes EE, __Scheuerell MD__. 2018. Applying spatiotemporal models to monitoring data to quantify fish responses to the Deepwater Horizon oil spill in the Gulf of Mexico. Environmental Monitoring and Assessment 190:530
 
