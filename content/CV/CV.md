@@ -27,16 +27,16 @@ BS, Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter & JF Kitchell
 
 ## Professional experience
 
-_Research Fisheries Biologist, NOAA Northwest Fisheries Science Center_
+_Research Fisheries Biologist, NOAA Northwest Fisheries Science Center_  
 __2003 - present__  
 
-_Affiliate Associate Professor, School of Aquatic and Fishery Sciences, University of Washington_
+_Affiliate Associate Professor, School of Aquatic and Fishery Sciences, University of Washington_  
 __2016 - present__  
 
-_Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, University of Washington_
+_Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, University of Washington_  
 __2007 - 2016__  
 
-_Postdoctoral Fellow, National Research Council_
+_Postdoctoral Fellow, National Research Council_  
 __2002 - 2003__  
 
 ***
