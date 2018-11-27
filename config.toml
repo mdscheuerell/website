@@ -262,7 +262,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "./cv/"
+  url = "./pdf/MDScheuerell_CV.pdf"
   weight = 4
 
 [[menu.main]]

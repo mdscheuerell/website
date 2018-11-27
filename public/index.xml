@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MARK SCHEUERELL on MARK SCHEUERELL</title>
-    <link>https://faculty.washington.edu/scheuerl/</link>
+    <link>/scheuerl/</link>
     <description>Recent content in MARK SCHEUERELL on MARK SCHEUERELL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>Projects</title>
-      <link>https://faculty.washington.edu/scheuerl/projects/projects/</link>
+      <link>/scheuerl/projects/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/projects/projects/</guid>
+      <guid>/scheuerl/projects/projects/</guid>
       <description>&lt;p&gt;I am involved in a number of collaborative projects with colleagues from within and outside of NOAA. Here are a few examples.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://faculty.washington.edu/scheuerl/teaching/teaching/</link>
+      <link>/scheuerl/teaching/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/teaching/teaching/</guid>
+      <guid>/scheuerl/teaching/teaching/</guid>
       <description>
 
 &lt;h2 id=&#34;applied-time-series-analysis-in-fisheries-environmental-sciences-https-nwfsc-timeseries-github-io-atsa&#34;&gt;&lt;a href=&#34;https://nwfsc-timeseries.github.io/atsa/&#34; target=&#34;_blank&#34;&gt;Applied Time Series Analysis in Fisheries &amp;amp; Environmental Sciences&lt;/a&gt;&lt;/h2&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Curriculum vitae</title>
-      <link>https://faculty.washington.edu/scheuerl/cv/cv/</link>
+      <link>/scheuerl/cv/cv/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/cv/cv/</guid>
+      <guid>/scheuerl/cv/cv/</guid>
       <description>
 
 &lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
@@ -465,29 +465,29 @@
     
     <item>
       <title>Contact</title>
-      <link>https://faculty.washington.edu/scheuerl/contact/contact/</link>
+      <link>/scheuerl/contact/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/contact/contact/</guid>
+      <guid>/scheuerl/contact/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://faculty.washington.edu/scheuerl/talk/example-talk/</link>
+      <link>/scheuerl/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/talk/example-talk/</guid>
+      <guid>/scheuerl/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Integrated population models</title>
-      <link>https://faculty.washington.edu/scheuerl/project/ipm/</link>
+      <link>/scheuerl/project/ipm/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/project/ipm/</guid>
+      <guid>/scheuerl/project/ipm/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -506,10 +506,10 @@
     
     <item>
       <title>Multivariate Autoregressive State-Space (MARSS) models</title>
-      <link>https://faculty.washington.edu/scheuerl/project/marss/</link>
+      <link>/scheuerl/project/marss/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/project/marss/</guid>
+      <guid>/scheuerl/project/marss/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://faculty.washington.edu/eeholmes/&#34; target=&#34;_blank&#34;&gt;Eli Holmes&lt;/a&gt;, &lt;a href=&#34;https://faculty.washington.edu/warde/&#34; target=&#34;_blank&#34;&gt;Eric Ward&lt;/a&gt;, and I have developed an &lt;a href=&#34;https://cran.r-project.org/web/packages/MARSS/index.html&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; with a detailed &lt;a href=&#34;https://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf&#34; target=&#34;_blank&#34;&gt;user’s guide&lt;/a&gt; for analyzing a variety of multivariate time series problems under a maximum likelihood framework. Examples include movement tracking, dynamic linear models (DLM), dynamic factor analysis (DFA), and estimating community interactions &amp;amp; stability.&lt;/p&gt;
@@ -518,10 +518,10 @@
     
     <item>
       <title>Spatial Dynamic Factor Analysis (SDFA)</title>
-      <link>https://faculty.washington.edu/scheuerl/project/sdfa/</link>
+      <link>/scheuerl/project/sdfa/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/project/sdfa/</guid>
+      <guid>/scheuerl/project/sdfa/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;I have been working with &lt;a href=&#34;https://sites.google.com/site/thorsonresearch/&#34; target=&#34;_blank&#34;&gt;Jim Thorson&lt;/a&gt; and several others on a variety of applications of joint dynamic species density models (JDSDM) to marine and terrestrial fauna. You can learn more about the models, applications, and &lt;strong&gt;R&lt;/strong&gt; packages at the &lt;a href=&#34;https://james-thorson.github.io/&#34; target=&#34;_blank&#34;&gt;FishStats&lt;/a&gt; website.&lt;/p&gt;
@@ -530,10 +530,10 @@
     
     <item>
       <title>Time-Varying Vector Autogressive State-Space (TVVARSS) models</title>
-      <link>https://faculty.washington.edu/scheuerl/project/tvvarss/</link>
+      <link>/scheuerl/project/tvvarss/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/project/tvvarss/</guid>
+      <guid>/scheuerl/project/tvvarss/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://faculty.washington.edu/warde/&#34; target=&#34;_blank&#34;&gt;Eric Ward&lt;/a&gt;, &lt;a href=&#34;http://cahnrs.wsu.edu/soe/people/facultynstaff/stephenkatz/&#34; target=&#34;_blank&#34;&gt;Steve Katz&lt;/a&gt;, and I have developed an &lt;a href=&#34;https://github.com/nwfsc-timeseries/tvvarss&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; to fit a Bayesian version of the model developed by &lt;a href=&#34;https://doi.org/10.1890/ES11-00347.1&#34; target=&#34;_blank&#34;&gt;Ives &amp;amp; Dakos (2012)&lt;/a&gt;. We expanded on their model to include multiple different forms of observation models. We are using it to examine changing species interactions and community stability in kelp forest ecosystems.&lt;/p&gt;
@@ -542,10 +542,10 @@
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://faculty.washington.edu/scheuerl/post/getting-started/</link>
+      <link>/scheuerl/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/post/getting-started/</guid>
+      <guid>/scheuerl/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
@@ -556,7 +556,7 @@
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://faculty.washington.edu/scheuerl/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;/scheuerl/scheuerl/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -654,15 +654,15 @@ cd my_website
 
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://faculty.washington.edu/scheuerl/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;/scheuerl/scheuerl/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://faculty.washington.edu/scheuerl/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;/scheuerl/scheuerl/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://faculty.washington.edu/scheuerl/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/scheuerl/scheuerl/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;themes&#34;&gt;Themes&lt;/h3&gt;
 
@@ -832,10 +832,10 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>https://faculty.washington.edu/scheuerl/post/widgets/</link>
+      <link>/scheuerl/post/widgets/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/post/widgets/</guid>
+      <guid>/scheuerl/post/widgets/</guid>
       <description>
 
 &lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
@@ -900,15 +900,15 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Managing content</title>
-      <link>https://faculty.washington.edu/scheuerl/post/managing-content/</link>
+      <link>/scheuerl/post/managing-content/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://faculty.washington.edu/scheuerl/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+      <guid>/scheuerl/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/scheuerl/scheuerl/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://faculty.washington.edu/scheuerl/post/writing-markdown-latex/#code-highlighting&#34; target=&#34;_blank&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;/scheuerl/scheuerl/post/writing-markdown-latex/#code-highlighting&#34; target=&#34;_blank&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
 
 &lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
 
@@ -1130,10 +1130,10 @@ widgets = true
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>https://faculty.washington.edu/scheuerl/post/writing-markdown-latex/</link>
+      <link>/scheuerl/post/writing-markdown-latex/</link>
       <pubDate>Sun, 17 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/post/writing-markdown-latex/</guid>
+      <guid>/scheuerl/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;
 
 &lt;h2&gt;Table of Contents&lt;/h2&gt;
@@ -1376,7 +1376,7 @@ print(&amp;quot;You entered: {}&amp;quot;.format(input_string_var))
 
 &lt;p&gt;If the &lt;code&gt;highlight_languages&lt;/code&gt; option is set, then the corresponding javascript files will be served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs server&lt;/a&gt;. To see a list of available languages, visit the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs page&lt;/a&gt; and search for links with the word &amp;ldquo;languages&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;https://faculty.washington.edu/scheuerl/post/getting-started/#third-party-and-local-scripts-js&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;/scheuerl/scheuerl/post/getting-started/#third-party-and-local-scripts-js&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&#34;option-highlight-style&#34;&gt;Option &lt;code&gt;highlight_style&lt;/code&gt;&lt;/h4&gt;
 
@@ -1546,10 +1546,10 @@ Here&#39;s some important information...
     
     <item>
       <title>Frequently Asked Questions (FAQ)</title>
-      <link>https://faculty.washington.edu/scheuerl/post/faq/</link>
+      <link>/scheuerl/post/faq/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/post/faq/</guid>
+      <guid>/scheuerl/post/faq/</guid>
       <description>&lt;p&gt;Common questions and answers will be listed here.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;I cloned/downloaded Academic but Hugo produces errors when using it with my existing Hugo site&lt;/strong&gt;&lt;/p&gt;
@@ -1599,10 +1599,10 @@ y &amp;amp;=&amp;amp; 1+1   \\\\\\
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://faculty.washington.edu/scheuerl/publication/person-re-identification/</link>
+      <link>/scheuerl/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/publication/person-re-identification/</guid>
+      <guid>/scheuerl/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
