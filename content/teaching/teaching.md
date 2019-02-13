@@ -23,6 +23,12 @@ Offered during the winter quarter of odd years as FISH 507 in the [School of Aqu
 
 ***
 
+[Time Series Analysis](https://mdscheuerell.github.io/PSAW2/)
+
+In February of 2019 I taught a half-day training session at NOAA Fisheries' [Protected Species Assessment Workshop](https://www.fisheries.noaa.gov/event/protected-species-assessment-workshop-psaw-ii) in La Jolla, California.
+
+***
+
 ## [Applied Time Series for Ecology](https://timeseriescourseemb.wordpress.com/)
 
 with [Eli Holmes](https://faculty.washington.edu/eeholmes/)
