@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on MARK SCHEUERELL</title>
-    <link>/scheuerl/teaching/</link>
+    <link>https://faculty.washington.edu/scheuerl/teaching/</link>
     <description>Recent content in Teaching on MARK SCHEUERELL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Teaching</title>
-      <link>/scheuerl/teaching/teaching/</link>
+      <link>https://faculty.washington.edu/scheuerl/teaching/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/scheuerl/teaching/teaching/</guid>
+      <guid>https://faculty.washington.edu/scheuerl/teaching/teaching/</guid>
       <description>
 
 &lt;h2 id=&#34;applied-time-series-analysis-in-fisheries-environmental-sciences-https-nwfsc-timeseries-github-io-atsa&#34;&gt;&lt;a href=&#34;https://nwfsc-timeseries.github.io/atsa/&#34; target=&#34;_blank&#34;&gt;Applied Time Series Analysis in Fisheries &amp;amp; Environmental Sciences&lt;/a&gt;&lt;/h2&gt;
@@ -23,6 +23,12 @@
 &lt;p&gt;with &lt;a href=&#34;https://faculty.washington.edu/eeholmes/&#34; target=&#34;_blank&#34;&gt;Eli Holmes&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://faculty.washington.edu/warde/&#34; target=&#34;_blank&#34;&gt;Eric Ward&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Offered during the winter quarter of odd years as FISH 507 in the &lt;a href=&#34;https://fish.uw.edu/&#34; target=&#34;_blank&#34;&gt;School of Aquatic and Fishery Sciences&lt;/a&gt; at the &lt;a href=&#34;https://www.washington.edu/&#34; target=&#34;_blank&#34;&gt;University of Washington&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mdscheuerell.github.io/PSAW2/&#34; target=&#34;_blank&#34;&gt;Time Series Analysis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In February of 2019 I taught a half-day training session at NOAA Fisheries&amp;rsquo; &lt;a href=&#34;https://www.fisheries.noaa.gov/event/protected-species-assessment-workshop-psaw-ii&#34; target=&#34;_blank&#34;&gt;Protected Species Assessment Workshop&lt;/a&gt; in La Jolla, California.&lt;/p&gt;
 
 &lt;hr /&gt;
 
