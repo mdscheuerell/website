@@ -1,7 +1,7 @@
 baseurl = "https://faculty.washington.edu/scheuerl/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #relativeurls = true
 title = "MARK SCHEUERELL"
-copyright = "&copy; 2018 Mark Scheuerell"
+copyright = "&copy; 2019 Mark Scheuerell"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -45,7 +45,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "USGS WA Cooperative Fish and Wildlife Research Unit", url = "https://www.coopunits.org/Washington/" },
+  organizations = [ { name = "USGS Washington Cooperative Fish and Wildlife Research Unit", url = "https://www.coopunits.org/Washington/" },
   { name = "UW School of Aquatic and Fishery Sciences", url = "https://fish.uw.edu/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
