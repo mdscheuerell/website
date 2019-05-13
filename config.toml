@@ -41,18 +41,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Mark D. Scheuerell"
-  role = "Applied Ecologist"
+  role = "Associate Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "NOAA Northwest Fisheries Science Center", url = "https://www.nwfsc.noaa.gov/" },
+  organizations = [ { name = "USGS WA Cooperative Fish and Wildlife Research Unit", url = "https://www.coopunits.org/Washington/" },
   { name = "UW School of Aquatic and Fishery Sciences", url = "https://fish.uw.edu/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mark.scheuerell@noaa.gov"
-  address = "Northwest Fisheries Science Center <br> National Marine Fisheries Service <br> 2725 Montlake Blvd E <br> Seattle, WA 98112, USA"
-  phone = "206 302 2437"
+  address = "School of Aquatic and Fishery Sciences <br> University of Washington <br> 1122 NE Boat St <br> Seattle, WA 98195-5020, USA"
+  phone = "206 543 5997"
   skype = "mdscheuerell"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -83,8 +83,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = "AIzaSyCOM_4Igg4AmZuG4Hv7KUqzSDvOiA8iu9A"
-  latitude = "47.644851"
-  longitude = "-122.307007"
+  latitude = "47.653311"
+  longitude = "-122.316222"
   zoom = 13
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -205,7 +205,7 @@ defaultContentLanguageInSubdir = false
 #  [[params.social]]
 #    icon = "envelope"
 #    icon_pack = "fa"
-#    link = "mailto:mark.scheuerell@noaa.gov"
+#    link = "mailto:scheuerl@uw.edu"
 
   [[params.social]]
     icon = "twitter"
