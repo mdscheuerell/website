@@ -39,4 +39,4 @@ I am the Assistant Unit Leader for the USGS Washington Cooperative Fish and Wild
 
 I work on a variety of problems related to the conservation and management of aquatic resources, particularly along the west coast of North America. Much of my research is focused on the development and application of statistical methods for analyzing temporal and spatial data.
 
-I advise post-docs and serve on graduate student committees in both formal and informal roles. Feel free to contact me if you would like to discuss any aspect of your research.
+I advise graduate students and post-docs in both formal and informal roles. Feel free to contact me if you would like to discuss any aspect of your research.
