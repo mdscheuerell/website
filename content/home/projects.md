@@ -42,4 +42,4 @@ filter_default = 0
 
 +++
 
-I am involved in a number of collaborative projects with colleagues from within and outside of NOAA. Here are a few examples.
+Here are some examples of my recent collaborative projects.
