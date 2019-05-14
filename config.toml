@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "scheuerl@uw.edu"
-  address = "School of Aquatic and Fishery Sciences <br> University of Washington <br> PO Box 355020 <br> Seattle, WA 98195-5020, USA"
+  address = "School of Aquatic and Fishery Sciences <br> University of Washington <br> PO Box 355020 <br> Seattle, WA 98195-5020"
   phone = "206 543 5997"
   skype = "mdscheuerell"
 
