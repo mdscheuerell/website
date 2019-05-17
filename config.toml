@@ -45,7 +45,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "USGS Washington Cooperative Fish and Wildlife Research Unit", url = "https://www.coopunits.org/Washington/" },
+  organizations = [ { name = "USGS Washington Cooperative Fish and Wildlife Research Unit", url = "https://depts.washington.edu/wacfwru/" },
   { name = "UW School of Aquatic and Fishery Sciences", url = "https://fish.uw.edu/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
