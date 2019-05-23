@@ -6,9 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.31.1" />
+  <meta name="generator" content="Hugo 0.55.6" />
   <meta name="author" content="Mark D. Scheuerell">
-  <meta name="description" content="Asst Unit Leader / Assoc Prof">
+  <meta name="description" content="Asst Unit Leader / Assoc Professor">
 
   
   <link rel="alternate" hreflang="en-us" href="https://faculty.washington.edu/scheuerl/post/writing-markdown-latex/">
@@ -281,9 +281,11 @@
 
 
       <div class="article-style" itemprop="articleBody">
-        <p>Content can be written using <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown</a>, <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank">LaTeX math</a>, and <a href="http://gohugo.io/extras/shortcodes/" target="_blank">Hugo Shortcodes</a>. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.</p>
+        <p>Content can be written using <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown</a>, <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank">LaTeX math</a>, and <a href="http://gohugo.io/extras/shortcodes/" target="_blank">Hugo Shortcodes</a>. Additionally, HTML may be used for advanced formatting.</p>
 
-<h2>Table of Contents</h2>
+<p>This article gives an overview of the most common formatting options.</p>
+
+<p><h2>Table of Contents</h2>
 <nav id="TableOfContents">
 <ul>
 <li>
@@ -321,8 +323,7 @@
 <li><a href="#table-of-contents">Table of Contents</a></li>
 </ul></li>
 </ul>
-</nav>
-
+</nav></p>
 
 <h2 id="sub-headings">Sub-headings</h2>
 
@@ -411,7 +412,7 @@ Strikethrough with ~~two tildes~~.
 [^1]: Footnote example.
 </code></pre>
 
-<p>I have more <sup class="footnote-ref" id="fnref:1"><a rel="footnote" href="#fn:1">1</a></sup> to say.</p>
+<p>I have more <sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup> to say.</p>
 
 <h2 id="code-highlighting">Code highlighting</h2>
 
@@ -536,16 +537,16 @@ print(&quot;You entered: {}&quot;.format(input_string_var))
 <p>See the <a href="https://highlightjs.org/static/demo/" target="_blank">highlight.js demo page</a> for examples of available styles.</p>
 
 <div class="alert alert-note">
-  <p>Not all styles listed on the <a href="https://highlightjs.org/static/demo/" target="_blank">highlight.js demo page</a> are available from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>. If you want to use a style that is not served by cdnjs, just leave <code>highlight_style</code> unset, and place the corresponding css file in <code>/static/css/highlight.min.css</code>.</p>
+  
+Not all styles listed on the [highlight.js demo page](https://highlightjs.org/static/demo/) are available from the [cdnjs server](https://cdnjs.com/libraries/highlight.js/). If you want to use a style that is not served by cdnjs, just leave `highlight_style` unset, and place the corresponding css file in `/static/css/highlight.min.css`.
 
 </div>
-
 
 <div class="alert alert-note">
-  <p>If you don&rsquo;t want to change the default style that ships with Academic but you do want the style file served from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>, set <code>highlight_style = &quot;github&quot;</code> in <code>config.toml</code>.</p>
+  
+If you don't want to change the default style that ships with Academic but you do want the style file served from the [cdnjs server](https://cdnjs.com/libraries/highlight.js/), set `highlight_style = "github"` in `config.toml`.
 
 </div>
-
 
 <p>The <code>highlight_style</code> option is only recognized when set in <code>config.toml</code>. Setting <code>highlight_style</code> in your page&rsquo;s preamble has no effect.</p>
 
@@ -659,10 +660,10 @@ Here's a tip or note...
 <p>This will display the following <em>note</em> block:</p>
 
 <div class="alert alert-note">
-  <p>Here&rsquo;s a tip or note&hellip;</p>
+  
+Here's a tip or note...
 
 </div>
-
 
 <pre><code>{{% alert warning %}}
 Here's some important information...
@@ -672,10 +673,10 @@ Here's some important information...
 <p>This will display the following <em>warning</em> block:</p>
 
 <div class="alert alert-warning">
-  <p>Here&rsquo;s some important information&hellip;</p>
+  
+Here's some important information...
 
 </div>
-
 
 <h2 id="table-of-contents">Table of Contents</h2>
 

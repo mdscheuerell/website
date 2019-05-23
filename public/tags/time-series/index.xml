@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time series on MARK SCHEUERELL</title>
+    <link>https://faculty.washington.edu/scheuerl/tags/time-series/</link>
+    <description>Recent content in Time series on MARK SCHEUERELL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Mark Scheuerell</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://faculty.washington.edu/scheuerl/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multivariate Autoregressive State-Space (MARSS) models</title>
+      <link>https://faculty.washington.edu/scheuerl/project/marss/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://faculty.washington.edu/scheuerl/project/marss/</guid>
+      <description>Development and application of MARSS models for time series analysis.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Dynamic Factor Analysis (SDFA)</title>
+      <link>https://faculty.washington.edu/scheuerl/project/sdfa/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://faculty.washington.edu/scheuerl/project/sdfa/</guid>
+      <description>Development and application of joint dynamic species density models (JDSDM) to marine and terrestrial fauna.</description>
+    </item>
+    
+    <item>
+      <title>Time-Varying Vector Autogressive State-Space (TVVARSS) models</title>
+      <link>https://faculty.washington.edu/scheuerl/project/tvvarss/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://faculty.washington.edu/scheuerl/project/tvvarss/</guid>
+      <description>Development and application of TVVARSS models for time series analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

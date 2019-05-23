@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mark Scheuerell</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
-    <atom:link href="/scheuerl/projects/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://faculty.washington.edu/scheuerl/projects/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Projects</title>
@@ -16,8 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://faculty.washington.edu/scheuerl/projects/projects/</guid>
-      <description>&lt;p&gt;I am involved in a number of collaborative projects with colleagues from within and outside of NOAA. Here are a few examples.&lt;/p&gt;
-</description>
+      <description>I am involved in a number of collaborative projects with colleagues from within and outside of NOAA. Here are a few examples.</description>
     </item>
     
   </channel>
