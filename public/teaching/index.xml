@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on MARK SCHEUERELL</title>
-    <link>https://faculty.washington.edu/scheuerl/teaching/</link>
+    <link>/scheuerl/teaching/</link>
     <description>Recent content in Teaching on MARK SCHEUERELL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mark Scheuerell</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="https://faculty.washington.edu/scheuerl/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/scheuerl/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Teaching</title>
-      <link>https://faculty.washington.edu/scheuerl/teaching/teaching/</link>
+      <link>/scheuerl/teaching/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/teaching/teaching/</guid>
+      <guid>/scheuerl/teaching/teaching/</guid>
       <description>Applied Time Series Analysis in Fisheries &amp;amp; Environmental Sciences with Eli Holmes &amp;amp; Eric Ward
 Offered during the winter quarter of odd years as FISH 507 in the School of Aquatic and Fishery Sciences at the University of Washington.
 Time Series Analysis In February of 2019 I taught a half-day training session at NOAA Fisheries&amp;rsquo; Protected Species Assessment Workshop in La Jolla, California.

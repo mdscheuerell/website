@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spatial stats on MARK SCHEUERELL</title>
-    <link>https://faculty.washington.edu/scheuerl/tags/spatial-stats/</link>
+    <link>/scheuerl/tags/spatial-stats/</link>
     <description>Recent content in Spatial stats on MARK SCHEUERELL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mark Scheuerell</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://faculty.washington.edu/scheuerl/tags/spatial-stats/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/scheuerl/tags/spatial-stats/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spatial Dynamic Factor Analysis (SDFA)</title>
-      <link>https://faculty.washington.edu/scheuerl/project/sdfa/</link>
+      <link>/scheuerl/project/sdfa/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/project/sdfa/</guid>
+      <guid>/scheuerl/project/sdfa/</guid>
       <description>Development and application of joint dynamic species density models (JDSDM) to marine and terrestrial fauna.</description>
     </item>
     

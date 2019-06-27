@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on MARK SCHEUERELL</title>
-    <link>https://faculty.washington.edu/scheuerl/projects/</link>
+    <link>/scheuerl/projects/</link>
     <description>Recent content in Projects on MARK SCHEUERELL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mark Scheuerell</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="https://faculty.washington.edu/scheuerl/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/scheuerl/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://faculty.washington.edu/scheuerl/projects/projects/</link>
+      <link>/scheuerl/projects/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/projects/projects/</guid>
+      <guid>/scheuerl/projects/projects/</guid>
       <description>I am involved in a number of collaborative projects with colleagues from within and outside of NOAA. Here are a few examples.</description>
     </item>
     

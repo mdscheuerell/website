@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on MARK SCHEUERELL</title>
-    <link>https://faculty.washington.edu/scheuerl/home/</link>
+    <link>/scheuerl/home/</link>
     <description>Recent content in Homes on MARK SCHEUERELL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mark Scheuerell</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://faculty.washington.edu/scheuerl/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/scheuerl/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://faculty.washington.edu/scheuerl/home/about/</link>
+      <link>/scheuerl/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/home/about/</guid>
-      <description>About me I am the Assistant Unit Leader for the USGS Washington Cooperative Fish and Wildlife Research Unit and an Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington.
+      <guid>/scheuerl/home/about/</guid>
+      <description>About me I am the Assistant Unit Leader for the U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit and an Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington.
 I work on a variety of problems related to the conservation and management of aquatic resources, particularly along the west coast of North America. Much of my research is focused on the development and application of statistical methods for analyzing temporal and spatial data.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://faculty.washington.edu/scheuerl/home/publications_selected/</link>
+      <link>/scheuerl/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/home/publications_selected/</guid>
+      <guid>/scheuerl/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://faculty.washington.edu/scheuerl/home/publications/</link>
+      <link>/scheuerl/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/home/publications/</guid>
+      <guid>/scheuerl/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://faculty.washington.edu/scheuerl/home/talks/</link>
+      <link>/scheuerl/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/home/talks/</guid>
+      <guid>/scheuerl/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://faculty.washington.edu/scheuerl/home/posts/</link>
+      <link>/scheuerl/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/home/posts/</guid>
+      <guid>/scheuerl/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://faculty.washington.edu/scheuerl/home/projects/</link>
+      <link>/scheuerl/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/home/projects/</guid>
+      <guid>/scheuerl/home/projects/</guid>
       <description>Here are some examples of my recent collaborative projects.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://faculty.washington.edu/scheuerl/home/teaching/</link>
+      <link>/scheuerl/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/home/teaching/</guid>
+      <guid>/scheuerl/home/teaching/</guid>
       <description>Applied Time Series Analysis in Fisheries &amp;amp; Environmental Sciences with Eli Holmes &amp;amp; Eric Ward
 During winters of odd years we teach Applied Time Series Analysis in Fisheries and Environmental Sciences (FISH 507), a 10-week long course in the School of Aquatic and Fishery Sciences at the University of Washington.
 Check out our labbook in bookdown format.
@@ -82,10 +82,10 @@ In March of 2014 we taught Applied Time Series for Ecology, a weeklong short cou
     
     <item>
       <title>CV</title>
-      <link>https://faculty.washington.edu/scheuerl/home/hero/</link>
+      <link>/scheuerl/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/home/hero/</guid>
+      <guid>/scheuerl/home/hero/</guid>
       <description>Education Ph.D., Zoology, University of Washington, 2002 (advisor: DE Schindler)
 M.S., Fishery and Aquatic Science, Cornell University, 1995 (advisors: LG Rudstam &amp;amp; EL Mills)
 B.S., Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter &amp;amp; JF Kitchell)
@@ -99,19 +99,19 @@ Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, Universit
     
     <item>
       <title>Tags</title>
-      <link>https://faculty.washington.edu/scheuerl/home/tags/</link>
+      <link>/scheuerl/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/home/tags/</guid>
+      <guid>/scheuerl/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://faculty.washington.edu/scheuerl/home/contact/</link>
+      <link>/scheuerl/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/home/contact/</guid>
+      <guid>/scheuerl/home/contact/</guid>
       <description></description>
     </item>
     

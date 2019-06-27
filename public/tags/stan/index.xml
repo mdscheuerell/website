@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stan on MARK SCHEUERELL</title>
-    <link>https://faculty.washington.edu/scheuerl/tags/stan/</link>
+    <link>/scheuerl/tags/stan/</link>
     <description>Recent content in Stan on MARK SCHEUERELL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mark Scheuerell</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://faculty.washington.edu/scheuerl/tags/stan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/scheuerl/tags/stan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Integrated population models</title>
-      <link>https://faculty.washington.edu/scheuerl/project/ipm/</link>
+      <link>/scheuerl/project/ipm/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/project/ipm/</guid>
+      <guid>/scheuerl/project/ipm/</guid>
       <description>Development and application of integrated population models for Pacific salmon.</description>
     </item>
     
     <item>
       <title>Time-Varying Vector Autogressive State-Space (TVVARSS) models</title>
-      <link>https://faculty.washington.edu/scheuerl/project/tvvarss/</link>
+      <link>/scheuerl/project/tvvarss/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/project/tvvarss/</guid>
+      <guid>/scheuerl/project/tvvarss/</guid>
       <description>Development and application of TVVARSS models for time series analysis.</description>
     </item>
     

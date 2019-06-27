@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/projects/projects/</loc>
+      <loc>/scheuerl/projects/projects/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -13,7 +13,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/teaching/teaching/</loc>
+      <loc>/scheuerl/teaching/teaching/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -22,7 +22,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/cv/cv/</loc>
+      <loc>/scheuerl/cv/cv/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -31,7 +31,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/contact/contact/</loc>
+      <loc>/scheuerl/contact/contact/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -40,7 +40,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/</loc>
+      <loc>/scheuerl/</loc>
       <lastmod>2017-10-15T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/cv/</loc>
+      <loc>/scheuerl/cv/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -59,7 +59,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/contact/</loc>
+      <loc>/scheuerl/contact/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/talk/example-talk/</loc>
+      <loc>/scheuerl/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/post/</loc>
+      <loc>/scheuerl/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/projects/</loc>
+      <loc>/scheuerl/projects/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/teaching/</loc>
+      <loc>/scheuerl/teaching/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -104,7 +104,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/tags/academic/</loc>
+      <loc>/scheuerl/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +113,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/publication/</loc>
+      <loc>/scheuerl/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -122,7 +122,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/talk/</loc>
+      <loc>/scheuerl/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -131,7 +131,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/tags/bayesian/</loc>
+      <loc>/scheuerl/tags/bayesian/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -141,7 +141,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/project/ipm/</loc>
+      <loc>/scheuerl/project/ipm/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -150,26 +150,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/tags/jags/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://faculty.washington.edu/scheuerl/project/marss/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://faculty.washington.edu/scheuerl/project/</loc>
+      <loc>/scheuerl/tags/jags/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -179,7 +160,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/project/sdfa/</loc>
+      <loc>/scheuerl/project/marss/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -188,17 +169,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/tags/spatial-stats/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://faculty.washington.edu/scheuerl/tags/stan/</loc>
+      <loc>/scheuerl/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -208,7 +179,36 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/tags/</loc>
+      <loc>/scheuerl/project/sdfa/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/scheuerl/tags/spatial-stats/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/scheuerl/tags/stan/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/scheuerl/tags/</loc>
       <lastmod>2017-09-03T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -218,7 +218,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/tags/time-series/</loc>
+      <loc>/scheuerl/tags/time-series/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -228,7 +228,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/project/tvvarss/</loc>
+      <loc>/scheuerl/project/tvvarss/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -237,7 +237,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/post/getting-started/</loc>
+      <loc>/scheuerl/post/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00-07:00</lastmod>
     </url>
     
@@ -246,7 +246,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/tags/hugo/</loc>
+      <loc>/scheuerl/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -256,7 +256,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/post/widgets/</loc>
+      <loc>/scheuerl/post/widgets/</loc>
       <lastmod>2016-04-19T00:00:00-07:00</lastmod>
     </url>
     
@@ -265,7 +265,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/post/managing-content/</loc>
+      <loc>/scheuerl/post/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00-07:00</lastmod>
     </url>
     
@@ -274,7 +274,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/post/writing-markdown-latex/</loc>
+      <loc>/scheuerl/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00-07:00</lastmod>
     </url>
     
@@ -283,7 +283,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/post/faq/</loc>
+      <loc>/scheuerl/post/faq/</loc>
       <lastmod>2016-04-10T00:00:00-07:00</lastmod>
     </url>
     
@@ -292,7 +292,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/publication_types/2/</loc>
+      <loc>/scheuerl/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -302,7 +302,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/publication/person-re-identification/</loc>
+      <loc>/scheuerl/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -311,7 +311,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/publication_types/</loc>
+      <loc>/scheuerl/publication_types/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -321,7 +321,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/categories/</loc>
+      <loc>/scheuerl/categories/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -331,7 +331,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>/scheuerl/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -340,17 +340,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://faculty.washington.edu/scheuerl/tags/r-markdown/</loc>
+      <loc>/scheuerl/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -360,7 +350,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/tags/plot/</loc>
+      <loc>/scheuerl/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -370,7 +360,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/tags/regression/</loc>
+      <loc>/scheuerl/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -380,7 +370,17 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/post/migrate-from-jekyll/</loc>
+      <loc>/scheuerl/tags/regression/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/scheuerl/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-07:00</lastmod>
     </url>
     
@@ -389,7 +389,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/tags/jekyll/</loc>
+      <loc>/scheuerl/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -399,7 +399,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/publication_types/1/</loc>
+      <loc>/scheuerl/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -409,7 +409,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/publication/clothing-search/</loc>
+      <loc>/scheuerl/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -418,7 +418,7 @@
     
     <url>
     
-      <loc>https://faculty.washington.edu/scheuerl/cv/cv/</loc>
+      <loc>/scheuerl/cv/cv/</loc>
       <priority>0</priority>
     </url>
     

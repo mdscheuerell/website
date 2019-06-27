@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on MARK SCHEUERELL</title>
-    <link>https://faculty.washington.edu/scheuerl/tags/hugo/</link>
+    <link>/scheuerl/tags/hugo/</link>
     <description>Recent content in hugo on MARK SCHEUERELL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Mark Scheuerell</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://faculty.washington.edu/scheuerl/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/scheuerl/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://faculty.washington.edu/scheuerl/post/getting-started/</link>
+      <link>/scheuerl/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/post/getting-started/</guid>
+      <guid>/scheuerl/post/getting-started/</guid>
       <description>Create a beautifully simple personal or academic website in under 10 minutes.</description>
     </item>
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>https://faculty.washington.edu/scheuerl/post/widgets/</link>
+      <link>/scheuerl/post/widgets/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/post/widgets/</guid>
+      <guid>/scheuerl/post/widgets/</guid>
       <description>Enable/disable and configure widgets to customize your homepage.</description>
     </item>
     
     <item>
       <title>Managing content</title>
-      <link>https://faculty.washington.edu/scheuerl/post/managing-content/</link>
+      <link>/scheuerl/post/managing-content/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://faculty.washington.edu/scheuerl/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>/scheuerl/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/scheuerl/scheuerl/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Frequently Asked Questions (FAQ)</title>
-      <link>https://faculty.washington.edu/scheuerl/post/faq/</link>
+      <link>/scheuerl/post/faq/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://faculty.washington.edu/scheuerl/post/faq/</guid>
+      <guid>/scheuerl/post/faq/</guid>
       <description>Troubleshoot common issues.</description>
     </item>
     
