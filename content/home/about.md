@@ -28,7 +28,7 @@ weight = 5
 
 [[education.courses]]
   course = "BS in Zoology"
-  institution = "University of Wisconsin"
+  institution = "University of Wisconsin - Madison"
   year = 1991
  
 +++

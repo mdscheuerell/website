@@ -15,6 +15,12 @@ weight = 60
 
 +++
 
+## [Analysis of Ecological and Environmental Data](https://qerm514.github.io/website/)
+
+Offered during the spring quarter of even years as QERM 514 in the [Quantitative Ecology & Resource Management (QERM) program](https://quantitative.uw.edu/graduate/) at the [University of Washington](https://www.washington.edu/).
+
+***
+
 ## [Applied Time Series Analysis in Fisheries & Environmental Sciences](https://nwfsc-timeseries.github.io/atsa/)
 
 with [Eli Holmes](https://faculty.washington.edu/eeholmes/) & [Eric Ward](https://faculty.washington.edu/warde/)

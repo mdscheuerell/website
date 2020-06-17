@@ -1,7 +1,7 @@
 baseurl = "https://faculty.washington.edu/scheuerl/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #relativeurls = true
 title = "MARK SCHEUERELL"
-copyright = "&copy; 2019 Mark Scheuerell"
+copyright = "&copy; 2020 Mark Scheuerell"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -82,7 +82,7 @@ defaultContentLanguageInSubdir = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = "AIzaSyCOM_4Igg4AmZuG4Hv7KUqzSDvOiA8iu9A"
+  map_api_key = "AIzaSyBWt-ly99L90iCqs0v4v5DEIg55tottSYYA"
   latitude = "47.653311"
   longitude = "-122.316222"
   zoom = 13
