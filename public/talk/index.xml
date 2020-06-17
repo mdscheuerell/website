@@ -2,23 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on MARK SCHEUERELL</title>
-    <link>/scheuerl/talk/</link>
+    <link>https://faculty.washington.edu/scheuerl/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on MARK SCHEUERELL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Mark Scheuerell</copyright>
+    <copyright>&amp;copy; 2020 Mark Scheuerell</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/scheuerl/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/scheuerl/talk/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Example Talk</title>
-      <link>/scheuerl/talk/example-talk/</link>
+      <link>https://faculty.washington.edu/scheuerl/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>/scheuerl/talk/example-talk/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>https://faculty.washington.edu/scheuerl/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
